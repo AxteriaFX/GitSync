@@ -16,11 +16,9 @@ layout:
     visible: true
 ---
 
-# 🔮 Heroic Velocity (1.16.5)
+# 🔮 Heroic Velocity (3.2.0)
 
-
-
-<figure><img src="../../.gitbook/assets/hiveneeeeeeee.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/velocity.png" alt=""><figcaption></figcaption></figure>
 
 ## Overview
 

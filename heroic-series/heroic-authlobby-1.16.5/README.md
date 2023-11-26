@@ -18,9 +18,7 @@ layout:
 
 # 🔮 Heroic AuthLobby (1.16.5)
 
-
-
-<figure><img src="../../.gitbook/assets/hiveneeeeeeee.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/authlobby.png" alt=""><figcaption></figcaption></figure>
 
 ## Overview
 
