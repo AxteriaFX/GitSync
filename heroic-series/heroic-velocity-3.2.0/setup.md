@@ -26,7 +26,7 @@ layout:
 ***
 
 1. Download and extract the package you bought.
-2. Download Purpur 1.16.5 and place it in the server main folder.
+2. Download Latest Velocity and place it in the server main folder.
 3. Double click to the file `Start.bat` to start your server.
 4. Wait for the server to be set up.
 5. It's all done. Enjoy yourselves.
